@@ -14,13 +14,4 @@ El conjunto de datos contiene imágenes de hojas de caña de azúcar, clasificad
 
 > El dataset debe estar organizado en carpetas por clase y puede ser cargado desde Google Drive o una ruta local.
 
----
-
-## ▶️ Cómo ejecutar la aplicación
-
-### 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-cd nombre_del_repositorio
 
